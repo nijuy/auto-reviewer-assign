@@ -7,7 +7,7 @@ auto-reviewer-assign은 Pull request의 Reviewers를 랜덤으로 지정하기 �
 ### 1. 사전 준비
 
 액션 사용에 필요한 값을 리포지토리에 등록하세요.<br/>
-`(선택)` 항목은 리포지토리에 등록하거나, workflow.yml에 직접 값을 넣으면 됩니다.<br/>
+`(선택)` 항목은 리포지토리 세팅에서 variable을 등록하거나, workflow.yml에 직접 값을 넣으면 됩니다.<br/>
 
 - (필수) Repository secret에 **Pull request write 권한이 있는 GitHub Token**을 등록하세요.
 
